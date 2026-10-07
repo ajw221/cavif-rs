@@ -42,3 +42,6 @@ avif-parse = "1.4.0"
 
 [package.metadata.release]
 tag = false
+
+[patch.crates-io]
+flo_curves = { git = "https://github.com/ajw221/flo_curves" }
